@@ -214,6 +214,16 @@
 			]
 		},
 		{
+			"name": "Bazel Autoproject",
+			"details": "https://github.com/abergmeier/sublime-bazel-autoproject",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BBCode Syntax",
 			"details": "https://github.com/chipotle/BBCode",
 			"labels": ["language syntax"],
